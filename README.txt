@@ -13,7 +13,7 @@ Description: Basic networking tools
 Repository: Python network tools
 Languages: Python 3.12.7
 Tested on: Linux 6.11.2
-Author: ghostface-cybersecurity
+Author: scarlet-oni
 
 ___________________________________________________________________________________________________________________
                                                       PROGRAM LAUNCH
@@ -36,7 +36,7 @@ ________________________________________________________________________________
 By downloading, modifying, redistributing, and/or executing python-network-tools, the
 user agrees to the contained LEGAL.txt statement found in this repository.
 
-I, ghostface-cybersecurity, the creator, take no legal responsibility for unlawful actions
+I, scarlet-oni, the creator, take no legal responsibility for unlawful actions
 caused/stemming from this program. 
 
 Use responsibly and ethically!
